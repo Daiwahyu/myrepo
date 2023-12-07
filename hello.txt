@@ -1,3 +1,2 @@
-Hello from poop-os
-This is another line
+Hello from LearnLinux
 
